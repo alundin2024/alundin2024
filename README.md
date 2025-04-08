@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**alundin2024/alundin2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+* name: Anton Lundin
+  located_in: Sweden, Växjö
+  current_job: Store Manager
+  education:
+  [
+    "Student at EC Utbildning, Frontend-developer",
+  ]
 
-Here are some ideas to get you started:
+  company: HiFi Klubben
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  fields_of_interest:
+  [
+    "Web Development",
+    "Counter-Strike",
+    "House Music",
+    "Breakfast",
+    "Friends, Family, Partner",
+  ]
+  technical_background:
+  [
+    "HTML/CSS/Tailwind,JS,JSX,Typescript,React,Angular",
+    "sqlLite, Express",
+  ]
+
+currently_learning: ["Typescript, Angular"]
+*
+```
