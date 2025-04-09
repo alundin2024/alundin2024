@@ -25,7 +25,6 @@
     "sqlLite, Express",
   ]
 
-![Snake animation](https://github.com/alundin2024/alundin2024/blob/output/github-contribution-grid-snake.svg)
 
 currently_learning: ["Typescript, Angular"]
 
@@ -41,4 +40,6 @@ currently_learning: ["Typescript, Angular"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45" />
 </p>
+
+![Snake animation](https://github.com/alundin2024/alundin2024/blob/output/github-contribution-grid-snake.svg)
 
