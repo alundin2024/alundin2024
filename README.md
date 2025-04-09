@@ -1,7 +1,7 @@
 ## Hi there, nice of you to visit! 👋
 
 ```yaml
-* name: Anton Lundin
+  name: Anton Lundin
   located_in: Sweden, Växjö
   current_job: Store Manager
   education:
@@ -26,5 +26,5 @@
   ]
 
 currently_learning: ["Typescript, Angular"]
-*
+
 ```
