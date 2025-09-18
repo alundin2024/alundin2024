@@ -25,9 +25,6 @@
     "sqlLite, Express",
   ]
 
-
-currently_learning: ["Typescript, Angular"]
-
 ```
 <h2>&nbsp;Some Tools I Have Used and Learned:</h2>
 <p align="left">
